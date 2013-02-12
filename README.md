@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head> 
+<title>  Mallory Brandt's Resume  </title> 
+<link rel="stylesheet" type="text/css" href="resume.css" />
+
+</head>
+
+<body>
+<div class = "overall" >
+
+<h1> Mallory R. Brandt </h1>
+<h4> 1004 E Bloomington St. - Iowa City, IA - 52245 </h4> 
+<h4> E-mail: mallory-brandt@uiowa.edu Phone: (319) 721-4011 </h4> 
+<hr />
+<hr />
+<br />
+<div class = "contents">
+<h3> EDUCATION </h3>
+<p>
+University of Iowa, Tippie College of Business - - - Iowa City, IA <br />
+Undergrad - BBA in M.I.S. and Economics <br />  
+Intended Graduation: May 2014 <br />
+Tippie Scholar | Direct Admit | GPA   3.24/4.0   
+
+</p>
+
+<h3> WORK EXPERIENCE </h3>
+<i> Business Analyst Intern </i> - - - December 2013-Present<br />
+<i>Project Management Intern</i> - - - May 2012-December 2012 <br />
+Pearson Education - - -  North Dodge St, Iowa City, IA
+<ul>
+<li>  One of 2.5% total accepted into the Pearson Education Internship Program (PEIP) </li>
+<li>  Initiated Data Management Project that will realize approximately $250,000 cost savings for  <br />
+    Assessment and Information business unit by end of project, $50,000 by 4th Quarter 2012 </li>
+<li>  Developed site pages within company's social media website, Neo </li>
+<li>  Appointed SharePoint cadre and admin; created new sites and performed administrative work on <br /> 
+    existing sites </li>
+<li>  Co-author of SharePoint User, Site Creation, and Permissions guides to be used to train all future<br /> 
+    company SharePoint users and admins via Pearson's Personal Development Network </li>
+<li>  Promoted, planned, and executed P.E. Cares' fundraising campaigns, such as "Pearson Penguins,"<br />
+    which raised approximately $1000 in one one-week campaign </li>
+<li>  Co-led School Supply Drive for Waypoint schools, collecting 865 school supplies for kids in need </li>
+</ul>
+
+<i> Supervisor </i> - - - February 2011-Present<br />
+University of Iowa's "The Hub" - - - Iowa Memorial Union<br />  
+(University Campus Information and Box Office Retail) - - - N. Madison St, Iowa City, IA
+<ul>
+<li> Station staff and delegate duties when working special events </li>
+<li> Supervise two cashiers per regular shift </li>
+<li> Balance register reports to overall reports via Excel spreadsheets and TicketMaster journals </li>
+<li> Enforce The Hub's rules, regulations, and office norms </li>
+<li> Resolve any issues/conflicts that may arise within the workplace </li>
+</ul>
+
+<h3> COLLEGE INVOLVEMENT </h3>
+<em>Alpha Kappa Psi  Professional Business Fraternity</em><br />
+<em>Business Technology Association (BTA)</em> - - -  Students interested in technology-related careers<br />
+<em>Tippie Build</em> - - - Partners with Habitat for Humanity<br />
+<em>Dance Marathon</em> - - - Fundraiser for UIHC and kids with cancer<br />
+<em>Tippie Optimist  Chapter</em><br />
+<em>S.T.A.C. (Steps to a Cure)</em> - - - Raise awareness for juvenile diabetes<br />
+
+
+<h3> AWARDS and ACHIEVEMENTS </h3>
+Direct Admit to the Tippie College of Business  - Fall 2010<br />
+Tippie Scholars Scholarship - $3,000 <br />
+Henry B. Tippie Belle Plaine Scholarship - $12,000 <br />
+Carole Donovan Memorial Scholarship - $4,580 <br />
+Salutatorian of Graduating High School Class<br />
+</div>
+<a href="index.html">Back To Mallory's Page</a>
+
+</div>
+</body>
+</html>
